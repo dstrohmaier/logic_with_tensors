@@ -1,8 +1,8 @@
 # Simulating Basic Logic with Tensors
 
-This repository includes a Python Jupyter Notebook exploring how to simulate basic logic with tensors. It largely reproduces a 2013 paper by Edward Grefenstette, adding only a few examples. 
+This repository includes a Python Jupyter Notebook exploring how to simulate basic logic with tensors. It reproduces parts of a 2013 paper by Edward Grefenstette, adding only a few examples. 
 
-How to connect tensor representations of lexical meaning with their role in formal semantic remains an open research question. Grefenstette's work suggested some important connections, but is far from the last word on these issues.
+How to connect tensor representations of lexical meaning with formal semantic remains an open research question. We can create distribuational representation or embeddings, but neither fit quite the paradigm of formal semantics. Grefenstette's work suggests some important connections, but is far from the last word on these issues. In fact, quite a few have been spoken since and I might explore them at a later date.
 
 
 
